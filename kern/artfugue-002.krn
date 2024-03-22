@@ -4,7 +4,7 @@
 !!!OPR@EN: The Art of the Fugue
 !!!OTL: Contrapunctus 2
 !!!SCA: BWV 1080
-!!!voice: 4
+!!!voices: 4
 !!!AGN: Simple fugue
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
@@ -60,7 +60,7 @@
 16BBnK	.	.	.
 8.AA	4Bn	.	.
 16GG#XJk)	.	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =8	=8	=8	=8
 (8.AAL	[2c	1r	1r
 16AK	.	.	.
@@ -117,7 +117,7 @@
 16EK	.	.	.
 8.F	.	.	.
 16GJk)	.	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =14	=14	=14	=14
 2A	4e	8.aL]	2cc
 .	.	16gK	.
@@ -164,7 +164,7 @@
 16CK	.	.	.
 8.BB-	[4F#X	[4cn	.
 16AAJk	.	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =19	=19	=19	=19
 [2BB-	8.F#XL]	4c]	[1d
 .	16DK	.	.
@@ -213,7 +213,7 @@
 .	16AKL	.	.
 .	8.Bn	.	.
 .	16c#XJk	.	.
-!!LO:PB:g=z
+!!LO:PB:g=original
 =24	=24	=24	=24
 8.r	4d	2f	1r
 16DKL	.	.	.
