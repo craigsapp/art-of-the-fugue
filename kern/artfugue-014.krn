@@ -4,9 +4,9 @@
 !!!OPR@EN: The Art of the Fugue
 !!!OTL: @{OTL2}
 !!!OTL1: Contrapunctus XIV: Canon in Double Counterpoint at the Tenth
-!!!OTL2: 17. Canon alla Decima. Contrapunto all a Terza
+!!!OTL2: 14 (XVII). Canon alla Decima. Contrapunto all a Terza
+!!!ONB: #17 in 1878 edition (SMS1)
 !!!ONB: #14 in 1926 edition (SMS2)
-!!!ONB: #17 in 1878 edition (SMS)
 !!!ONB1: Fehlt im Berliner Autograph
 !!!ONB2: In der O.A.: "Canonalla Decima. Contropuntoalla Terza."
 !!!SCA: BWV 1080
@@ -1415,9 +1415,11 @@
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!system-decoration: {(s1,s2)}
-!!!URL-pdf: https://vmirror.imslp.org/files/imglnks/usimg/8/88/IMSLP504269-PMLP05843-BGA-25.1.pdf#page=79 @{SMS}
+!!!URL-pdf: https://vmirror.imslp.org/files/imglnks/usimg/8/88/IMSLP504269-PMLP05843-BGA-25.1.pdf#page=79 @{SMS1}
 !!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/1d/IMSLP469177-PMLP5843-Bach,_J.S._-_The_Art_of_the_Fugue.pdf#page=75 @{SMS2}
-!!!SMS: Bach-Gesellschaft Ausgabe, Band 25.1 (pp.1-116) Leipzig: Breitkopf und Härtel, 1878. Plate B.W. XXV (1).
+!!!URL-youtube: https://www.youtube.com/watch?v=OMtjlaDEMdI&t=3646s Netherlands Bach Society/Malinowski
+!!!SMS: @{SMS2}
+!!!SMS1: Bach-Gesellschaft Ausgabe, Band 25.1 Leipzig: Breitkopf und Härtel, 1878. Plate B.W. XXV (1).
 !!!SMS2: Bach-Gesellschaft Ausgabe, Band 47 Leipzig: Breitkopf und Härtel, 1926. Plate B.W. XLVII.
 !!!PED: Wilhelm Rust
 !!!PED-ODT: 1822-1892

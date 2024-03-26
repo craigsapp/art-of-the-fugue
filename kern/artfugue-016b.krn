@@ -3,12 +3,12 @@
 !!!OPR@@DE: Die Kunst der Fuge
 !!!OPR@EN: The Art of the Fugue
 !!!OTL: Contrapunctus 16 (XIII), a 3. (inversus)
-!!!ONB: #13 in 1878 edition (SMS)
+!!!ONB: #13 in 1878 edition (SMS1)
 !!!ONB: #16 in 1926 edition (SMS2)
 !!!ONB: Nach dem Berliner Autograph Nr. 12.
 !!!SCA: BWV 1080
 !!!voices: 3
-!!!AGN:
+!!!AGN: Mirror fugue
 **kern	**kern	**kern
 *part1	*part1	*part1
 *staff3	*staff2	*staff1
@@ -1297,10 +1297,11 @@
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!system-decoration: [(s1,s2,s3,s4)]
-!!!URL-pdf: https://vmirror.imslp.org/files/imglnks/usimg/8/88/IMSLP504269-PMLP05843-BGA-25.1.pdf#page=61 @{SMS}
+!!!URL-pdf: https://vmirror.imslp.org/files/imglnks/usimg/8/88/IMSLP504269-PMLP05843-BGA-25.1.pdf#page=61 @{SMS1}
 !!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/1d/IMSLP469177-PMLP5843-Bach,_J.S._-_The_Art_of_the_Fugue.pdf#page=83 @{SMS2}
-!!!URL-youtube: https://www.youtube.com/watch?v=OMtjlaDEMdI&t=3154 Netherlands Bach Society/Malinowski
-!!!SMS: Bach-Gesellschaft Ausgabe, Band 25.1 (pp.1-116) Leipzig: Breitkopf und Härtel, 1878. Plate B.W. XXV (1).
+!!!URL-youtube: https://www.youtube.com/watch?v=OMtjlaDEMdI&t=3155s Netherlands Bach Society/Malinowski
+!!!SMS: @{SMS1}
+!!!SMS: Bach-Gesellschaft Ausgabe, Band 25.1 Leipzig: Breitkopf und Härtel, 1878. Plate B.W. XXV (1).
 !!!SMS2: Bach-Gesellschaft Ausgabe, Band 47 Leipzig: Breitkopf und Härtel, 1926. Plate B.W. XLVII.
 !!!PED: Wilhelm Rust
 !!!PED-ODT: 1822-1892
