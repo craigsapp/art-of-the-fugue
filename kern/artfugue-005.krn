@@ -103,6 +103,7 @@
 .	.	.	8bb-X
 .	.	.	8aaJ
 *	*	*clefC1	*
+*	*	*mclefG2	*
 [2G	4.e	8r	[2bb-
 .	.	8aaL	.
 .	.	8gg	.
@@ -145,6 +146,7 @@
 8A	.	.	.
 8GJ	.	.	.
 *	*	*clefC3	*
+*	*	*clefGv2	*
 =17	=17	=17	=17
 2.F	1r	8r	2dd
 .	.	8AL	.
@@ -627,6 +629,7 @@
 =70	=70	=70	=70
 2D	2a	8a	4.ff
 *	*	*clefC1	*
+*	*	*mclefG2	*
 .	.	8cc#XL	.
 .	.	8dd	.
 .	.	8eeJ	8gg
@@ -699,6 +702,7 @@
 8F	.	.	[4a
 8EJ	8G	.	.
 *	*	*clefC3	*
+*	*	*mclefGv2	*
 !!LO:LB:g=original
 =78	=78	=78	=78
 [2D/	4.F	2d	8aL]
@@ -823,6 +827,7 @@
 !!!URL-pdf: https://vmirror.imslp.org/files/imglnks/usimg/8/88/IMSLP504269-PMLP05843-BGA-25.1.pdf#page=18 @{SMS1}, page 18
 !!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/1d/IMSLP469177-PMLP5843-Bach,_J.S._-_The_Art_of_the_Fugue.pdf#page=21 @{SMS2}, page 21
 !!!URL-youtube: https://www.youtube.com/watch?v=OMtjlaDEMdI&t=944s Netherlands Bach Society/Malinowski
+!!!URL-youtube: https://www.youtube.com/watch?v=N6sUlZa-IrU&t=944s Netherlands Bach Society
 !!!SMS: @{SMS1}
 !!!SMS1: Bach-Gesellschaft Ausgabe, Band 25.1 Leipzig: Breitkopf und Härtel, 1878. Plate B.W. XXV (1).
 !!!SMS2: Bach-Gesellschaft Ausgabe, Band 47 Leipzig: Breitkopf und Härtel, 1926. Plate B.W. XLVII.
@@ -835,3 +840,4 @@
 !!!EEV: 2024/03/22
 !!!title: @{OPR} (@{SCA}), @{OTL}
 !!!filter-keyboard: satb2gs | shed -e s/clefC./clefG2/I
+!!!filter-modern: modori -m

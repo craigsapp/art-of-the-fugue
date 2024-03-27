@@ -10,7 +10,7 @@
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
 *clefF4	*clefC4	*clefC3	*clefC1
-*mclefF4	*mclefC3	*mclefG2	*mclefG2
+*mclefF4	*mclefGv2	*mclefG2	*mclefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *d:	*d:	*d:	*d:
 *M2/2	*M2/2	*M2/2	*M2/2
@@ -235,7 +235,7 @@
 4EE	4B	8aL]	.
 .	.	8f#XJ	.
 4r	[4e	4g	.
-!!LO:PB:g=original
+!!LO:LB:g=original
 =29	=29	=29	=29
 2r	8eL]	4.f#X	2a
 .	8AJ	.	.
@@ -455,7 +455,7 @@
 .	.	8eJ	8gg
 .	8AL	[4cc	8ff
 .	8FJ	.	8eeJ
-!!LO:PB:g=original
+!!LO:LB:g=original
 =53	=53	=53	=53
 1r	8B-L	4cc]	4.dd
 .	8dJ	.	.
@@ -699,3 +699,4 @@
 !!!EEV: 2024/03/21
 !!!title: @{OPR} (@{SCA}), @{OTL}
 !!!filter-keyboard: satb2gs | shed -e s/clefC./clefG2/I
+!!!filter-modern: modori -m
