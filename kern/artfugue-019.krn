@@ -1434,11 +1434,15 @@
 !!LO:TX:a:t=XIXc
 2GG	2G	4c]	2g
 .	.	4B-	.
+!	!LO:TX:a:t=B	!	!
 2r	2B-	2r	2r
 =194	=194	=194	=194
+!	!LO:TX:a:t=A	!	!
 1r	2A	1r	1r
+!	!LO:TX:a:t=C	!	!
 .	2c	.	.
 =195	=195	=195	=195
+!	!LO:TX:a:t=H	!	!
 1r	4.BX	2r	1r
 .	8c#X	.	.
 .	[2d	2f	.
@@ -1827,3 +1831,4 @@
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2024/03/26
 !!!title: @{OPR} (@{SCA}), @{OTL}
+!!!filter-bach: msearch -i "-m2 +m3 -m2" -c crimson -m Z | msearch -i "+m2 -m3 +m2" -c orange -m N
