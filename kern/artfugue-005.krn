@@ -834,3 +834,4 @@
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2024/03/22
 !!!title: @{OPR} (@{SCA}), @{OTL}
+!!!filter-keyboard: satb2gs | shed -e s/clefC./clefG2/I
