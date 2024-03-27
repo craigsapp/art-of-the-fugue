@@ -14,8 +14,10 @@
 *staff2	*staff1
 *clefF4	*clefG2
 *k[b-]	*k[b-]
+*d:	*d:
 *M2/2	*M2/2
 *met(c|)	*met(c|)
+*mmet(c|)	*mmet(c|)
 *MM112	*MM112
 =1	=1
 !LO:TUP:a	!
