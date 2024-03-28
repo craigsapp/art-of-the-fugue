@@ -891,7 +891,9 @@
 4r	2b-	12ddL]
 .	.	12ee
 .	.	12ffJ
+!!LO:MO:ori
 *clefC4	*	*
+!!LO:MO:end
 !	!	!LO:TUP:a
 4c#X	.	12eeL
 .	.	12ff
@@ -928,7 +930,10 @@
 4r	12fL	[4aa
 .	12e	.
 .	12dJ	.
-*clefF4	*Xtuplet	*
+!!LO:MO:ori
+*clefF4	*	*
+!!LO:MO:end
+*	*Xtuplet	*
 !	!LO:N:vis=8.	!LO:TUP:a
 4r	6c#XL	12aaL]
 .	.	12gg

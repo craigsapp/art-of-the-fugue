@@ -204,8 +204,9 @@
 .	16F#X	.	.
 .	16G	8ccJ	.
 .	16AJJ	.	.
+!!LO:MO:ori
 *	*	*clefC3	*
-*	*	*mclefG2	*
+!!LO:MO:end
 !!LO:LB:g=original
 =13	=13	=13	=13
 2D	[4B-	16f#XLL	4dd

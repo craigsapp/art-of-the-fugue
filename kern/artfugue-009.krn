@@ -814,7 +814,9 @@
 =89	=89	=89	=89
 1D	8dL	4a]	4dd
 .	8E	.	.
+!!LO:MO:ori
 *	*	*clefC1	*
+!!LO:MO:end
 .	8F	8ddL	4a
 .	8GJ	8eeJ	.
 .	8AL	4ff	[2aa
@@ -830,7 +832,9 @@
 .	8dJ	.	8dd
 .	[4e	.	8cc#X
 .	.	.	8bnJ
+!!LO:MO:ori
 *	*	*clefC3	*
+!!LO:MO:end
 !!LO:LB:g=original
 =91	=91	=91	=91
 1F	4e]	2r	8aL

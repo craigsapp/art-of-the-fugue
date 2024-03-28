@@ -103,8 +103,9 @@
 .	.	.	8ccc
 .	.	.	8bb-X
 .	.	.	8aaJ
+!!LO:MO:ori
 *	*	*clefC1	*
-*	*	*mclefG2	*
+!!LO:MO:end
 [2G	4.e	8r	[2bb-
 .	.	8aaL	.
 .	.	8gg	.
@@ -146,8 +147,9 @@
 8B-	.	.	.
 8A	.	.	.
 8GJ	.	.	.
+!!LO:MO:ori
 *	*	*clefC3	*
-*	*	*clefGv2	*
+!!LO:MO:end
 =17	=17	=17	=17
 2.F	1r	8r	2dd
 .	.	8AL	.
@@ -629,8 +631,9 @@
 .	.	.	8ee
 =70	=70	=70	=70
 2D	2a	8a	4.ff
+!!LO:MO:ori
 *	*	*clefC1	*
-*	*	*mclefG2	*
+!!LO:MO:end
 .	.	8cc#XL	.
 .	.	8dd	.
 .	.	8eeJ	8gg
@@ -702,8 +705,9 @@
 8Gn	.	.	8eJ
 8F	.	.	[4a
 8EJ	8G	.	.
+!!LO:MO:ori
 *	*	*clefC3	*
-*	*	*mclefGv2	*
+!!LO:MO:end
 !!LO:LB:g=original
 =78	=78	=78	=78
 [2D/	4.F	2d	8aL]
