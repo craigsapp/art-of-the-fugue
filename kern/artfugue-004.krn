@@ -441,8 +441,9 @@
 4F	.	4cc	2aa
 .	8B	.	.
 4D	2Bt	8r	.
+!!LO:MO:ori
 *	*	*clefC1	*
-*	*	*mclefG2	*
+!!LO:MO:end
 .	.	8ffL	.
 4E	.	8ee	4gg#X
 .	.	[8ddJ	.
@@ -488,8 +489,9 @@
 .	.	.	8cccL
 .	4g	.	8bb-
 .	.	.	8aaJ
+!!LO:MO:ori
 *	*	*clefC3	*
-*	*	*mclefG2	*
+!!LO:MO:end
 8r	2e	4r	8ggL
 8AL	.	.	8ff
 8G	.	4b-	8ee
