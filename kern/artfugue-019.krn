@@ -1905,7 +1905,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2024/03/26
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2024/03/26
+!!!EEV: 2024/03/28
 !!!title: @{OPR} (@{SCA}), @{OTL}
 !!!filter-bach: msearch -i "-m2 +m3 -m2" -c crimson -m Z | msearch -i "+m2 -m3 +m2" -c orange -m N
 !!!filter-keyboard: autostem -r | satb2gs | shed -e s/clefC./clefG2/I

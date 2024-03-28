@@ -1248,7 +1248,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2024/03/21
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2024/03/21
+!!!EEV: 2024/03/28
 !!!title: @{OPR} (@{SCA}), @{OTL}
 !!!filter-keyboard: autostem -r | satb2gs | shed -e s/clefC./clefG2/I
 !!!filter-modern: modori -m | autostem -r
