@@ -1908,5 +1908,5 @@
 !!!EEV: 2024/03/26
 !!!title: @{OPR} (@{SCA}), @{OTL}
 !!!filter-bach: msearch -i "-m2 +m3 -m2" -c crimson -m Z | msearch -i "+m2 -m3 +m2" -c orange -m N
-!!!filter-keyboard: satb2gs | shed -e s/clefC./clefG2/I
-!!!filter-modern: modori -m
+!!!filter-keyboard: autostem -r | satb2gs | shed -e s/clefC./clefG2/I
+!!!filter-modern: modori -m | autostem -r

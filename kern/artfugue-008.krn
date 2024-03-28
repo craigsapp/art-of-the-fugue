@@ -1799,4 +1799,4 @@
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2024/03/22
 !!!title: @{OPR} (@{SCA}), @{OTL}
-!!!filter-modern: modori -m
+!!!filter-modern: modori -m | autostem -r
