@@ -12,6 +12,7 @@
 **kern	**kern	**kern
 *part1	*part1	*part1
 *staff3	*staff2	*staff1
+*I"	*I"	*I"
 *clefF4	*clefC1	*clefG2
 *mclefF4	*mclefG2	*mclefG2
 *k[b-]	*k[b-]	*k[b-]
@@ -42,7 +43,6 @@
 .	12a	.
 .	12b-J	.
 !	!LO:TUP:a	!
-
 .	12aL	.
 .	12b-	.
 .	12ccJ	.
